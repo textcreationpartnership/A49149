@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Looking-glass for England being an abstract of the bloody massacre in Ireland, by the instigation of the Jesuites, priests and friars, who were chief promoters of those horrible murthers, prodigious cruelties, barbarous villanies, and inhumane practices, executed by the Irish papists upon the English Protestants in the year 1642 : as also a brief apology in the behalf of the Protestants in the valleys of Piedmont : with a narrative of the barbarous butcheries, inhumane cruelties, most exercrable and unheard-of villanies, perpetrated on them by the Popish party during the heat of the late massacre in April 1655.  Stirred up by the malice and instigation of the Devil acting in the popish clergie.</title>
+         </titleStmt>
+         <extent>Approx. 76KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49149</idno><idno type="EEBO-CITATION">13472046</idno>
+  <idno type="VID">99704</idno>
+  <idno type="EEBO-PROQUEST">2248495736</idno>
+  
+            <idno type="STC">Wing L3017</idno>
+            <idno type="STC">ESTC R4925</idno>
+            <idno type="OCLC">13472046</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99704)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Looking-glass for England being an abstract of the bloody massacre in Ireland, by the instigation of the Jesuites, priests and friars, who were chief promoters of those horrible murthers, prodigious cruelties, barbarous villanies, and inhumane practices, executed by the Irish papists upon the English Protestants in the year 1642 : as also a brief apology in the behalf of the Protestants in the valleys of Piedmont : with a narrative of the barbarous butcheries, inhumane cruelties, most exercrable and unheard-of villanies, perpetrated on them by the Popish party during the heat of the late massacre in April 1655.  Stirred up by the malice and instigation of the Devil acting in the popish clergie.</title>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Persecution --  Ireland.</term>
+               <term type="topical_term">Persecution --  Italy.</term>
+               <term type="topical_term">Protestants --  Ireland.</term>
+               <term type="topical_term">Protestants --  Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99704:1"/>
+            <p>A LOOKING-GLASS FOR ENGLAND.</p>
+            <p>BEING An Abstract of the Bloody MASSACRE in <hi>IRELAND,</hi> by the Instigation of the Je<g ref="char:EOLhyphen"/>suites, Priests and Friars, who were chief Promoters of those horrible Murthers, prodigious Cruelties, barbarous Villanies, and inhumane Practices, executed by the <hi>Irish Papists</hi> up<g ref="char:EOLhyphen"/>on the <hi>English Protestants</hi> in the Year 1642.</p>
+            <p>As also A brief APOLOGY in the behalf of the <hi>Protestants</hi> in the Valleys of <hi>Piedmont;</hi> with a NARRATIVE of the barbarous Butcheries, inhumane Cruelties, most execrable and unheard-of Villanies, per<g ref="char:EOLhyphen"/>petrated on them by the Popish party during the heat of the late Massacre in <hi>April</hi> 1655. stirred up by the Malice and In<g ref="char:EOLhyphen"/>stigation of the Devil acting in the Popish Clergie.</p>
+            <q>Foelix quem faciunt aliena pericula cautum.</q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:99704:2"/>
+            <pb n="3" facs="tcp:99704:2"/>
+            <head>An Abstract of the Bloody <hi>MASSACRE</hi> in <hi>Ireland,</hi> by the instigation of the Jesuites, Priests and Friars, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen their Plots were ripe for execution, we find their first proceedings against the <hi>English</hi> various; some of the <hi>Irish</hi> only stripping and expelling them; others murdering men, women, and children without mercy; all resolving universally to root out all the <hi>Protestants</hi> out of <hi>Ireland;</hi> so deeply malitious were they against the <hi>English Prote<g ref="char:EOLhyphen"/>stants,</hi> that they would not so much as endure the sound of their Language.</p>
+            <p>The Priests gave the Sacrament unto divers of the <hi>Irish,</hi> upon conditi<g ref="char:EOLhyphen"/>on they should neither spare man, woman, nor child of the <hi>Protestants.</hi> One <hi>Halligan,</hi> a Priest, read an Excommunication against all those, that from thenceforth should relieve or harbour any <hi>English, Scotish,</hi> or <hi>Welch</hi> man, or give them almes, whereby many were famished to death. The Friars exhorted them with tears, not to spare any of the <hi>English;</hi> they boasted that when they had destroyed them in <hi>Ireland,</hi> they would go over into <hi>England</hi> and not leave the memorial of an <hi>English</hi> man under heaven.</p>
+            <p>They openly professed, that they held it as lawful to kill a <hi>Protestant,</hi> as to kill a Dog. One of their Priests said, <hi>That it was no more pitty to take their Lives from them, then it was to take a Bone out of a Dogs mouth.</hi>
+            </p>
+            <p>The day before this Massacre began, the Priests gave the People a dis<g ref="char:EOLhyphen"/>miss at Mass, with liberty to go out, and take possession of all their Lands, as also to strip, rob, and despoyle them of all their goods and cattel; the <hi>Protestants</hi> being, as they told them, worse than Doggs, for they were De<g ref="char:EOLhyphen"/>vils, and therefore the killing of such was a <hi>Meritorious Act,</hi> and <hi>a rare Preservative against the pains of Purgatory;</hi> and this caused some of these murderers to boast, after they had slain many of the <hi>English, That they knew, that if they should dye presently, they should go straight to Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p>The <hi>Irish,</hi> when the Massacre began, perswaded many of their <hi>Protest<g ref="char:EOLhyphen"/>ant</hi> Neighbours to bring their Goods to them, and they would secure them; and hereby they got abundance peaceably into their hands, whereof they
+<pb n="4" facs="tcp:99704:3"/> cheated the <hi>Protestants,</hi> refusing to restore them again; yet so confident were the <hi>Protestants</hi> at first of them, that they gave them Inventories of all they had; and digged up their best things that were hidden in the ground, and deposited them in their custody. They also got much into their hands by fair Promises, deep Oaths and Engagements, that if they would deliver them their goods, they would suffer them, with their Wives and Children, quietly to depart the Country; and when they had got what they could, they afterwards murdered them.</p>
+            <p>Having thus seized upon their goods and cattel, ransack't their houses, got their persons, stript Man, Woman, and Child naked, and so turned them out of doors, strictly prohibiting the <hi>Irish</hi> under great penalties, not to give them any relief; by means hereof many miserably perisht through cold, nakedness and hunger.</p>
+            <p>In the Town of <hi>Coleraine,</hi> many of these poor people that fled thither for succour, many thousands dyed in two dayes, so that the living could not bury the dead, but layd their Carcasses in ranks in waste and wide holes, pyling them up as if they had been Herrings.</p>
+            <p>One <hi>Magdalen Redman</hi> deposeth, that she, and divers other <hi>Protestants,</hi> amongst whom were two and twenty Widows, were first robbed, and then stript naked, and when they had covered themselves with straw, the bloody <hi>Papists</hi> threw in burning straw amongst them, on purpose to burn them; then they drove them out into the Woods in Frost and Snow, where ma<g ref="char:EOLhyphen"/>ny of them dyed with extream cold, and those that survived, lived mise<g ref="char:EOLhyphen"/>rably by reason of their many wants.</p>
+            <p>Yet though these bloody Villains exercised such inhumame cruelties towards the poor <hi>Protestants,</hi> they would commonly boast, <hi>That these were but the beginnings of their sorrows,</hi> for indeed they made it good; for ha<g ref="char:EOLhyphen"/>ving disarmed the <hi>English,</hi> robbed them of their goods, stript them of their cloathes, and having their persons in their power, they furiously broke out into all manner of abominable Cruelties, horrid Massacres, and exe<g ref="char:EOLhyphen"/>crable Murders.</p>
+            <p>For there were multitudes murdered in cold blood, some as they were at Plough, others in their Houses, others in the high Wayes; all without any provocation, were suddenly destroyed.</p>
+            <p>In the Castle of <hi>Lisgool,</hi> were about one hundred and fifty Men, Women and Children consumed with fire. At the Castle of <hi>Moneah,</hi> were one hundred slain. At the Castle of <hi>Tullah,</hi> which was delivered to <hi>Mac Guire,</hi> upon composition, and faithful promises of fair quarter, as soon as he and his entred, they began to strip the People, and most cruel<g ref="char:EOLhyphen"/>ly put them to the sword, murdering them all without mercy.</p>
+            <p>At <hi>Lissenskeath,</hi> they hanged and killed above one hundred of the <hi>Scot<g ref="char:EOLhyphen"/>tish
+<pb n="5" facs="tcp:99704:3"/> Protestants.</hi> In the Counties of <hi>Armagh</hi> and <hi>Tyrone,</hi> where the <hi>Pro<g ref="char:EOLhyphen"/>testants</hi> were more numerous, their murthers were more multiplied, and with greater cruelty.</p>
+            <p>
+               <hi>Mac Guire</hi> coming to the Castle of <hi>Lissenskeath,</hi> desired to speak with Mr. <hi>Middleton,</hi> who admitted him in, he first burnt the Records of the County, then demanded One thousand pounds which was in his custody of Sir <hi>William Balfor<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> which as soon as he had, he caused Mr. <hi>Middleton</hi> to hear Mass, and to swear that he would never alter from it, and then hanged him up with his Wife and Children: hanging and murthering above one hundred persons besides in that place.</p>
+            <p>At <hi>Portendown</hi> Bridge, there were one thousand Men, Women and Children carried in several Companies, and all unmercifully drowned in the River. Yea in that Country there were four thousand persons drown<g ref="char:EOLhyphen"/>ed in several places.</p>
+            <p>In one place one hundred and forty <hi>English</hi> were taken and driven like Cattle for many miles together. Other companies they carried out to a place fit for execution, and then murthered them. One hundred and fifteen Men, Women and Children, they sent with Sir <hi>Philem Oneals</hi> pass till they came to <hi>Portendowne</hi> Bridge, and there drowned them.</p>
+            <p>At another time one hundred and fourty <hi>Protestants,</hi> being thrown in at the same place, as any of them swam to the shore, the bloody Villains, with the Butt-ends of their Muskets knockt out their brains.</p>
+            <p>At <hi>Armagh, O Cane</hi> got together all the <hi>Protestants</hi> thereabouts, pre<g ref="char:EOLhyphen"/>tending to conduct them to <hi>Coleraine;</hi> but before they were a dayes jour<g ref="char:EOLhyphen"/>ney, they were all murthered, and so were many others, though they had Protections from Sir <hi>Philem Oneale.</hi> The Aged people in <hi>Armagh</hi> were carried to <hi>Charlemont,</hi> and there murthered.</p>
+            <p>Presently after, the Town of <hi>Armagh</hi> was burnt, and five hundred per<g ref="char:EOLhyphen"/>sons murthered and drowned. In <hi>Killoman,</hi> were forty eight families murthered. In one house twenty two <hi>Protestants</hi> were burned. In <hi>Kilmore</hi> all the Inhabitants were stript and Massacred, being two hundred Fami<g ref="char:EOLhyphen"/>lies: the whole County was a common Butchery; many thousands perish<g ref="char:EOLhyphen"/>ed by sword, famine, fire, water, and all other cruel deaths that rage and malice could invent.</p>
+            <p>At <hi>Casel</hi> they put all the <hi>Protestants</hi> into a loathsome Dungeon, kept them twelve weeks in great misery. Some they barbarously mangled, and left them languishing; some they hanged up twice or thrice, others they buried alive.</p>
+            <p>In <hi>Queens</hi> County, an <hi>English</hi> man, his Wife, five Children and a Maid, were all hanged together. At <hi>Clowns,</hi> seventeen men were buried alive; some were wounded and hanged upon Tenter-hooks.</p>
+            <pb n="6" facs="tcp:99704:4"/>
+            <p>In <hi>Castle-Cumber</hi> two Boyes wounded, and hung upon Butchers Ten<g ref="char:EOLhyphen"/>ters. Some hanged up, and taken down to confess money, and then mur<g ref="char:EOLhyphen"/>thered. Some had their Bellyes ript up, and so left with their Gutts about their heels.</p>
+            <p>In <hi>Kilkenny</hi> an <hi>English</hi> Woman beaten into a ditch where she died; her Child about six years old, they ript up her Belly, and let out her Gutts. One they forced to Mass, then they wounded him, ript his Belly, took out his Gutts, and so left him alive.</p>
+            <p>A <hi>Scottish</hi> man they stript, and hewed to pieces, ript up his Wifes Bel<g ref="char:EOLhyphen"/>ly, so that her Child dropt out; many other Women they hung up with Child, ript their Bellies, and let their Infants fall out; some of the Children they gave to Doggs.</p>
+            <p>In the County of <hi>Armagh,</hi> they robbed, stripped, and murthered abundance of <hi>Protestants,</hi> whereof some they burned, some they slew with the Sword, some they hanged, some they starved to death; and meeting Mistris <hi>Howard,</hi> and Mistris <hi>Frankland</hi> with six of their Children, and themselves both with Child, they murdered them all, ript open the Gen<g ref="char:EOLhyphen"/>tle womens Bellies, took out their Children, and threw them into a ditch. A young <hi>Scotish</hi> Womans Child they took by the heels and dasht out its brains against a tree; the like they did to many other Children.</p>
+            <p>
+               <hi>Anne Hill</hi> going with a young Child on her back, and four more by her side, they pulled the Child off her back, trod on it till it died, stripped her and the other four Children naked, whereby they died of cold.</p>
+            <p>Some others they met with, hanged them up upon a Windmil, and be<g ref="char:EOLhyphen"/>fore they were half dead, cut them in pieces with their Skeins.</p>
+            <p>Many other <hi>Protestants,</hi> especially Women and Children, they pricked and stabbed with Skeins, Forks, and Swords, slashing, cutting and mang<g ref="char:EOLhyphen"/>ling them in their Heads, Faces, Breasts, Armes, and other parts, yet killed them not, but left them wallowing in their blood, to languish, starve and pine to death.</p>
+            <p>The Castle of <hi>Lisgoole,</hi> being set on fire by these merciless <hi>Papists,</hi> a Woman lept out at a Window to save her self from burning, whom they presently murthered; many fled to Vaults and Cellars, where they were all murthered. One <hi>Joan Addis</hi> they stabbed, and then put her Child of a quarter old to her Breast, and bid it <hi>Suck English Bastard,</hi> and so left it to perish.</p>
+            <p>One <hi>Mary Barlow</hi> had her husband hanged, her self with six Children st<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipt naked, in Frost and Snow, after which, sheltring themselves in a Cave, they had nothing to eat for three weeks, but two old Calves skins, which they beat with stones, and so eat them hair and all.</p>
+            <p>In the cold weather many thousands of <hi>Protestants</hi> of all ranks, ages,
+<pb n="7" facs="tcp:99704:4"/> and Sexes, being turned out naked, perished of cold and hunger; thou<g ref="char:EOLhyphen"/>sands of others were drowned, cast into Ditches, Bogs, and Turf-pits; multitudes miserably burnt in houses; some that lay sick of Feavers they hanged up; some men, women, and children, they drove into Boggy Pits, and knock't them on the heads.</p>
+            <p>Some Aged men and women these barbarous <hi>Papists</hi> enforced their own children to drown them; yea, some children were compelled unnaturally to execute their own Parents, Wives forced to hang their own Husbands, and Mothers to cast their own Children into the Waters, after which themselves were murthered. In <hi>Sligo</hi> they forced a young man to kill his Father, and then hanged him up. In another place they forced a Wo<g ref="char:EOLhyphen"/>man to kill her Husband, then caused her Son to kill her, and then hanged the Son: Yea such was their malice against the <hi>English,</hi> that they taught their Children to kill <hi>English</hi> Children.</p>
+            <p>The <hi>Irish</hi> Women that followed the Camp, cryed out, <hi>Kill them all, spare neither Man, Woman, nor Child.</hi> They took the Child of <hi>Thomas Stratton,</hi> being about twelve years old, and boiled him in a Cauldron. One good-wife <hi>Lin,</hi> and her Daughter, they carried into a Wood, first hanged the Mother, and then the Daughter in the hair of her Mothers head.</p>
+            <p>In some places they plucked out the Eyes, and cut off the Hands of the <hi>Protestants,</hi> and turned them into the Fields, where they perished. The Women, in some places, stoned the <hi>English</hi> Women and Children to death. One man they shot through his Thighs, digged a hole in the ground, set him in upon his feet, fill'd up the hole, left out onely his head, where he languished to death. Another man they held his feet in the fire till he was burnt to death.</p>
+            <p>In <hi>Munster</hi> they hanged up many Ministers in a most barbarous man<g ref="char:EOLhyphen"/>ner. One Minister they stripped naked, and drove him through the Town, pricking him with Darts and Rapiers, till he fell down dead.</p>
+            <p>These barbarous Villains vowed, <hi>That if any Parents digged Graves to bury their Children in, they should be buried therein themselves.</hi> They stripped one <hi>William Loverden</hi> naked, then killed him before his Wife and Children. Divers Ministers bones that had been buried some years be<g ref="char:EOLhyphen"/>fore, they digged up, because they were, as they say, <hi>Patrons of He<g ref="char:EOLhyphen"/>resie.</hi>
+            </p>
+            <p>Poor Children that went out into the fields to eat Weeds and Grass, they killed without all pitty.</p>
+            <p>A poor Woman, whose Husband was taken by them, went to them with two Children at her feet, and one at her breast, hoping to beg her Husband, but they slew her, and her sucking Child, brake the neck of
+<pb n="8" facs="tcp:99704:5"/> another, and the third hardly escaped; and all this wickedness they ex<g ref="char:EOLhyphen"/>ercised upon the <hi>English,</hi> without any provocation given them. Alas, who can comprehend the fears, terrors, anguish, bitterness, and per<g ref="char:EOLhyphen"/>plexity that seized upon the poor <hi>Protestants,</hi> finding themselves so sud<g ref="char:EOLhyphen"/>denly surprised without remedy, and wrapt up in all kind of outward mi<g ref="char:EOLhyphen"/>series which could possibly by man be inflicted upon humane Creatures? What sighs and groans, trembling and astonishment, what shricks, cries, and bitter lamentations of Wives, Children, Servants and Friends, howling and weeping, finding themselves without all hope of delive<g ref="char:EOLhyphen"/>rance from their present miseries. How inexorable were their barbarous Tormentors, that compassed them in on every side, without all bowels of Compassion, or the least commiseration or pitty: Yea, they boasted upon their success, <hi>That the day was their own, and that ere long they would not leave one</hi> Protestant <hi>Rogue living, but would utterly destroy every one that had but a drop of</hi> English <hi>blood in them.</hi> Their Women crying out, <hi>Slay them all, the</hi> English <hi>are fit meat for Dogs, and their Children are Ba<g ref="char:EOLhyphen"/>stards.</hi>
+            </p>
+            <p>These merciless <hi>Papists</hi> having set a Castle on fire, wherein were many <hi>Protestants,</hi> they rejoycingly said, <hi>O how sweetly do they fry.</hi>
+            </p>
+            <p>At <hi>Kilkenny,</hi> when they had committed many cruel murthers, they brought seven <hi>Protestants</hi> Heads, one the Head of a Reverend Minister, all which they set upon the Market-cross, on a Market day, tryumphing, slashing and mangling them; they put a Gag in the Ministers mouth, slit up his Cheeks to his Ears, and laid a leaf of a Bible upon it, and bid him <hi>Preach, for his mouth was wide enough.</hi>
+            </p>
+            <p>At <hi>Kilmore</hi> they put many <hi>Protestants,</hi> men, women, and children, into a Thatched House, and there burnt them. They threw <hi>Mrs. Max<g ref="char:EOLhyphen"/>wel</hi> into the River, when in Labour, the Child being half born when the mo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r was drowned.</p>
+            <p>In one place they burnt two <hi>Protestant</hi> Bibles, and then said, <hi>It was Hell fire they burnt.</hi> Other Bibles they took, cut in pieces, and then burnt them, saying, <hi>They would do the like to all</hi> Puritane <hi>Bibles.</hi> They took the Bible of a Minister, called <hi>Mr. Edward Slack,</hi> and opening it, they laid it in a puddle of Water, and then stamped upon it, saying, <hi>A plague on it, this Bible hath bred all the Quarrel.</hi>
+            </p>
+            <p>At <hi>Glastow,</hi> a Priest, with some others, drew about forty <hi>English</hi> and <hi>Scottish Protestants</hi> to be reconciled to the Church of <hi>Rome,</hi> and then told them <hi>They were in a good Faith, and for fear they should fall from it and turn Hereticks,</hi> he with his Companions presently cut all their Throats.</p>
+            <p>In the County of <hi>Tipperary,</hi> near the <hi>Silver Works,</hi> some of these Bar<g ref="char:EOLhyphen"/>barous <hi>Papists</hi> met with eleven <hi>English</hi> men, ten women, some children,
+<pb n="9" facs="tcp:99704:5"/> whom they first stript, and then with Stones, Poleaxes, Skeins, Swords, <hi>&amp;c.</hi> they most barbarously massacred them all.</p>
+            <p>In the County of <hi>Mayo,</hi> about sixty <hi>Protestants,</hi> whereof fifteen were Ministers, were upon Covenant to be safely conveyed to <hi>Galway</hi> by one <hi>Edmond Burk,</hi> and his Souldiers; but by the way, this <hi>Burk</hi> and hi Company began to massacre these poor <hi>Protestants,</hi> some they shot to death, some they stab'd with Skeins, some they thrust through with their Pikes, some they drowned; the Women they stript naked, who lying upon their Husbands to save them, were run through with Pikes, so that very few of them escaped with life.</p>
+            <p>In the Town of <hi>Sligo,</hi> forty <hi>Protestants</hi> were stript, and locked up in a Celler, and about midnight a Butcher provided for the purpose, was sent in amongst them, who with his Ax butchered them all.</p>
+            <p>In <hi>Tirawly,</hi> thirty or forty <hi>English,</hi> who had yeelded to go to <hi>Mass,</hi> were put to their choice <hi>Whether they would die by the Sword, or be drowned?</hi> They chose the latter; and so being driven to the Sea side, these barba<g ref="char:EOLhyphen"/>rous Villains, with their naked Swords forced them into the Sea; the Mothers with their Children in their Arms, wading to the Chin, were o<g ref="char:EOLhyphen"/>vercome by the Waves, where they all perished.</p>
+            <p>The Son of Mr. <hi>Montgomery</hi> a Minister, Aged about fifteen years, met with his School-master, who drew his Skein at him, whereupon the Boy said, <hi>Good Master whip me as much as you will, but do not kill me.</hi> Yet this merciless Tyger barbarously murthered him without all pitty.</p>
+            <p>In the Town of <hi>Sligo,</hi> all the <hi>Protestants</hi> were first robbed of their E<g ref="char:EOLhyphen"/>states, then cast into Goal, and about midnight were all stript naked, and were there most cruelly and barbarously murthered with Swords, Axes, Skeins, <hi>&amp;c.</hi> some of them being Women great with Child, their Infants thrust out their Arms and Legs at their Wounds; after which execrable murthers, these Hell-hounds laid the dead naked Bodies of the men up<g ref="char:EOLhyphen"/>on the naked Bodies of the women, in a most immodest posture, where they left them till the next day to be looked upon by the <hi>Irish,</hi> who be<g ref="char:EOLhyphen"/>held it with great delight. Also <hi>Isabel Beard,</hi> great with Child, hearing the lamentable cries of those that were murthering, ran out into the streets, where she was murthered, and the next day was found with the Childs feet coming out of the Wounds in her sides: many others were murthered in the houses and streets.</p>
+            <p>About <hi>Dungannon</hi> were three hundred and sixteen <hi>Protestants</hi> in the like barbarous manner murthered: about <hi>Charlemont</hi> above four hundred: a<g ref="char:EOLhyphen"/>bout <hi>Tyrone</hi> two hundred and six.</p>
+            <p>One <hi>Mac Crew,</hi> murthered thirty one in one morning.</p>
+            <p>Two young Villains, murdered 140. poor Women and Chil<g ref="char:EOLhyphen"/>dren
+<pb n="10" facs="tcp:99704:6"/> that could make no resistance. An <hi>Irish</hi> woman with her own hands murthered forty five.</p>
+            <p>At <hi>Portendowne Bridge</hi> were drowned above three hundred. At <hi>Lawgh</hi> were drowned above two hundred. In another place were drowned three hundred in one day. In the Parish of <hi>Killamen,</hi> there were murthered one thousand and two hundred <hi>Protestants.</hi>
+            </p>
+            <p>Many young Children they cut in quarters; Eighteen <hi>Scottish</hi> Infants they hanged upon a Clothiers Tenter-hooks; One fat man they mur<g ref="char:EOLhyphen"/>thered, and made Candles of his Grease; Another <hi>Scottish</hi> man they ript up his Belly, took one end of his small Guts, tied it to a Tree, and for<g ref="char:EOLhyphen"/>ced him round about it, till they had drawn them all out of his Body, saying, <hi>That they would try whether a Dogs or a</hi> Scottish <hi>mans Guts were the longer.</hi>
+            </p>
+            <p>By the command of Sir <hi>Philem O Neale,</hi> Master <hi>James Maxwel</hi> was drawn out of his Bed, being sick of a Feaver, and murthered, his Wife being in Child birth, the Child being half born, they stript naked, drove her about a flight shot, and drowned her in the black Water; The like, or worse, they did to another <hi>English</hi> Woman in the same Town. One Mr. <hi>Watson</hi> they roasted alive. A <hi>Scottish</hi> Woman, great with Child, they ript up her Belly, cut the Child out of her Womb, and so left it crawling on her Body.</p>
+            <p>Mr. <hi>Starkey,</hi> Schoolmaster at <hi>Armagh,</hi> being above one hundred years old, they stript him naked, then took his two Daughters, being Virgins, whom they also stript naked, and then forced them to lead their Aged Father to a Turf-pit, where they drowned them all three.</p>
+            <p>To one <hi>Henry Cowel,</hi> a gallant Gentleman, they prosfered his life, if he would marry one of their Truls, or go to Mass, but he chose death ra<g ref="char:EOLhyphen"/>ther than to consent to either.</p>
+            <p>Many of the <hi>Protestants</hi> they buried alive, sollacing themselves, whilst they were digging down old Ditches upon them.</p>
+            <p>They brake the Back-bone of a Youth, and left him in the Fields; some dayes after he was found, having eaten the Grass round about him; nei<g ref="char:EOLhyphen"/>ther then would they kill him out-right, but removed him to better Pa<g ref="char:EOLhyphen"/>sture, wherein was fulfilled that saying, <hi>The tender mercies of the wicked are cruelty.</hi>
+            </p>
+            <p>In the County of <hi>Antrim,</hi> they murthered nine hundred fifty four <hi>Protestants</hi> in one morning; and afterwards about twelve hundred more in that County. Near <hi>Lisnegarry,</hi> they forced twenty four <hi>Protestants</hi> in<g ref="char:EOLhyphen"/>to a house, and burnt them all.</p>
+            <p>Sir <hi>Philem O Neale</hi> boasted, <hi>That he had slain above six hundred at</hi> Garvagh, <hi>and that he had left neither man, woman, nor child alive in the</hi>
+               <pb n="11" facs="tcp:99704:6"/> Barony <hi>of</hi> Munterlong. In other places he murthered above two thou<g ref="char:EOLhyphen"/>sand Persons in their houses, so that many houses were filled with dead Bodies.</p>
+            <p>Above twelve thousand were slain in the high wayes, as they fled to<g ref="char:EOLhyphen"/>wards <hi>Downe.</hi> Many died of Famine; many died for want of Cloaths, being stript naked in a cold season; some thousands were drowned, so that in the Province of <hi>Ulster,</hi> there were about one hundred and fifty thousand murthered by sundry kinds of torments and deaths.</p>
+            <p>The <hi>Popish English</hi> were no whit inferiour, yea rather exceeded the na<g ref="char:EOLhyphen"/>tural <hi>Irish</hi> in their cruelty against the <hi>Protestants</hi> that lived amongst them, within the <hi>Pale,</hi> being not satisfied with their blood, till they had seen the last drop thereof.</p>
+            <p>
+               <hi>Ann Kinnard</hi> testified, <hi>That fifteen</hi> Protestants <hi>being Imprisoned, and their Feet in the Stocks, a</hi> Popish <hi>Boy, being not above fourteen years old, slew them all in one night with his skein.</hi>
+            </p>
+            <p>An <hi>English</hi> Woman, who was newly delivered of two Children, some of these Villains violently compelled her, in her great pain and sickness, to rise out of her Bed, and took one of the Infants that was living, and dashed his Brains against the Stones, and then threw him into the River of <hi>Barrow;</hi> The like they did by many other Infants. Many others they hanged up without all pitty.</p>
+            <p>The Lord <hi>Mont Garrit,</hi> caused divers <hi>English</hi> Souldiers, that he taken about <hi>Kilkenny,</hi> to be hanged, hardly suffering them to pray before their death.</p>
+            <p>One <hi>Fitz Patrick,</hi> an <hi>Irish Papist,</hi> enticed a rich Merchant, that was a <hi>Protestant,</hi> to bring all his Goods to his house, promising safely to keep them, and to re-deliver them to him; but when he had gotten them into his possession, he took the Merchant and his Wife and hanged them both. The like he did by divers others.</p>
+            <p>Some <hi>English</hi> mens heads they cut off, and carried them to <hi>Kilkenny,</hi> and on the Market day, set them on the Cross, where many, especially the Women, stab'd, cut and slashed them.</p>
+            <p>A poor <hi>Protestant</hi> Woman, with her two Children, going to <hi>Kilkenny,</hi> these bloody Miscreants baited them with Dogs, stabbed them with Skeins, and pulled out the Guts of one of the Children, whereby they died; and not far off they took divers men, women, and children, and hanged them up; one of the Women being great with Child, they ripped up her Belly as she hanged, so that the Child fell out in the Cawl alive. Some after they were hanged, they drew up and down till their Bowels were torn out.</p>
+            <p>How many thousands of <hi>Protestants</hi> were thus inhumanely butchered
+<pb n="12" facs="tcp:99704:7"/> by sundry kindes of deaths, we cannot ascertain.</p>
+            <p>In the Province of <hi>Ulster,</hi> we find about 150000. murthered, as b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore; what the number of the slain was in the three other Provinces, I find not upon Record, but certainly it was very great, for you have these passages in a general Remonstrance of the distressed <hi>Protestants</hi> in the Province of <hi>Munster. We may</hi> (say they) <hi>compare our woe to the saddest Parallel of any Story; Our Churches are prophaned by Sacrifices to Idols; Our Habitations are become ruinous heaps: No quality, Age or Sex, privi<g ref="char:EOLhyphen"/>ledged from Massacres and lingring deaths, by being robbed, stript naked, and so exposed to cold and famine. The famished Infants of murthered Parents swarm in our Streets, and for want of food, perish before our faces,</hi> &amp;c. <hi>And all this cruelty that is exercised upon us, we know not for what cause, of<g ref="char:EOLhyphen"/>fence, or seeming provocation it is inflicted on us, (sin excepted) saving that we were</hi> Protestants, <hi>&amp;c. We can make it manifest, that the depopulations in this Province of</hi> Munster, <hi>do well near equal those of the whole Kingdom,</hi> &amp;c.</p>
+            <p>And thus in part you have heard of the merciless cruelties which the bloody <hi>Papists</hi> exercised towards the <hi>Protestants:</hi> Let us now consider, at least, some of God's Judgments upon the <hi>Irish,</hi> whereby he hath not left the Innocent blood of his Servants to be altogether unrevenged.</p>
+            <p>These bloody Hell-hounds, themselves confessed, <hi>That the Ghosts of divers of the</hi> Protestants, <hi>which they had drowned at</hi> Portendowne Bridg, <hi>were daily seen to walk upon the River, sometimes singing of Psalms, some<g ref="char:EOLhyphen"/>times brandishing naked Swords, sometimes shreeking in a most hideous and fearful manner.</hi> So that many of the <hi>Popish Irish</hi> which dwelt near there<g ref="char:EOLhyphen"/>abouts, being afrighted therewith, were forced to remove their Habitati<g ref="char:EOLhyphen"/>ons further off into the Countrey.</p>
+            <p>
+               <hi>Katherine Cook</hi> testified upon Oath, <hi>That when the</hi> Irish <hi>had barbarously drowned one hundred and eighty</hi> Protestants, <hi>men, women, and children, at</hi> Portendowne Bridge, <hi>about nine dayes after, she saw the apparition of a Man bolt upright in the River, standing breast high, with his hands lifted up to Heaven; and continu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in that pasture from</hi> December <hi>to the end of</hi> Lent, <hi>at which time some of the</hi> English <hi>Army passing that way, saw it also, after which it vanished away.</hi>
+            </p>
+            <p>
+               <hi>Elizabeth Price,</hi> testified upon Oath, <hi>That she, and other women, whose Husbands and Children were drowned in that place, hearing of these Appari<g ref="char:EOLhyphen"/>tions, went thither one evening, at which time they saw one like a Woman rise out of the River, breast high, her hair hanging down, which with her skin, was as white as Snow, often crying out,</hi> Revenge, Revenge, Re<g ref="char:EOLhyphen"/>venge, <hi>which so afrighted them, that they went their way.</hi>
+            </p>
+            <p>Divers <hi>Protestants</hi> were thrown into the River of <hi>Belterbert,</hi> and when
+<pb n="13" facs="tcp:99704:7"/> any of them offered to swim to the Land, they were knocked on the head with Poles, after which their Bodies were not seen of six weeks; but after the end thereof, the murtherers coming again that way, the Bodies came floating up to the very Bridge where they were.</p>
+            <p>Sir <hi>Con Mac Gennis</hi> with his Company, slew <hi>Mr. Turge,</hi> Minister of the <hi>Newry,</hi> with divers other <hi>Protestants,</hi> after which the said <hi>Mac Gen<g ref="char:EOLhyphen"/>nis</hi> was so afrighted with the Apprehension of the said <hi>Mr. Turge,</hi> his be<g ref="char:EOLhyphen"/>ing continually in his presence, that he commanded his Souldiers not to slay any more of them, but such as should be slain in Battel.</p>
+            <p>A young Woman being stript almost naked, there came a Rogue to her, bidding her, <hi>Give him her money, or he would run her through with his Sword.</hi> Her answer was, <hi>You cannot kill me, except God give you leave;</hi> Whereupon he ran three times at her naked body with his drawn Sword, and yet never pierced her skin; whereat he being confounded, went his way and left her. This was attested by divers Women that were present and saw it.</p>
+            <p>As for the <hi>Protestant</hi> Ministers whom they surprized, their manner was first to strip them, and after bind them to a Tree or post, where they pleased, and then to ravish their Wives and Daughters before their faces (in sight of all their merciless rabble) with the basest Villains they could pick out, after they hanged up their husbands and parents before their faces, and then cut them down before they were half dead, then quarter'd them, after dismember'd them, and stopped their mouths therewith.</p>
+            <p>They basely abused one Mr. <hi>Trafford,</hi> a Minister in the North of <hi>Ireland,</hi> who being assaulted by these bloody Wolves of <hi>Romes</hi> brood, that know not God, nor any bowels of mercy. This distressed Minister desired but so much time as to call upon God before he went out of the world: but these merciless wretches would admit no time, but instantly fell upon him, hackt and hewed him to pieces.</p>
+            <p>Sir <hi>Patrick Dunstan's</hi> Wife ravished before him, slew his Servants, spurned his Children till they dyed, bound him with Match to a board that his eyes burst out, cut off his ears and nose, teared off both his cheeks, after cut off h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s arms and legs, cut out his tongue, and after run a red hot Iron into him.</p>
+            <p>These Particulars with many more were Attested before the Commissioners appointed for that purpose.</p>
+         </div>
+         <div type="narrative">
+            <pb n="14" facs="tcp:99704:8"/>
+            <head>A <hi>Brief APOLOGY</hi> in the behalf of the <hi>Protestants</hi> in the Valleys of <hi>Piedmont,</hi> with a <hi>Narrative</hi> of the Cruelties exercised upon them, In the Year <hi>1655.</hi>
+            </head>
+            <p>WHereas we are forewarned by the Word of God, <hi>That the Rage and Cruelty of the infernal Dragon, towards the latter end of the World, would be in no wise abated; but seeing his time of Perse<g ref="char:EOLhyphen"/>cuting the Saints to be but short, would be the more vehemently in<g ref="char:EOLhyphen"/>sensed against them;</hi> The Reformed Churches in several parts, especially those next unto us in <hi>Piedmont,</hi> have very often heretofore, as well as now, had sad experience of the Truth of this Particular. For, notwithstanding that the Duke of <hi>Savoy,</hi> who is Soveraign Prince of the Vallyes of <hi>Pied<g ref="char:EOLhyphen"/>mont,</hi> after a most tedious and chargable Application made unto him, did by an Edict expresly promise, <hi>That he would confirm unto them an enjoy<g ref="char:EOLhyphen"/>ment of the Liberty of Religion, and of those Priviledges granted to them by his Predecessors, Dukes of Savoy:</hi> Yet through the powerful perswasion of the <hi>Congregation</hi> (as it is called) <hi>for Propagation of the Faith, and Extir<g ref="char:EOLhyphen"/>pating of Hereticks,</hi> erected at <hi>Turin;</hi> Or rather by virtue of that Autho<g ref="char:EOLhyphen"/>rity which they Usurp over Princes, he soon forgot his Promise, and be<g ref="char:EOLhyphen"/>yond all mens expectations, one <hi>Gastald</hi> was sent with a Commission, who calls himself, <hi>Conservator General of the Catholick Faith against the Reformed Professors;</hi> affirming that he hath received Instructions from the Prince, whereby command is given touching all the <hi>Reformed Profession,</hi> within the several Towns and Precincts of <hi>Lucerne, Lusernette, St. John, La Tour, Campiglion, Fenill, Bobiane, Bricheras,</hi> and <hi>St. Second,</hi> both In<g ref="char:EOLhyphen"/>habitants and Strangers, <hi>That in case they will not within Three Dayes em<g ref="char:EOLhyphen"/>brace the Popish Religion, they must for ever bid farwel to their Native Coun<g ref="char:EOLhyphen"/>try, Houses, Lands and Possessions;</hi> adding moreover, <hi>That it should be Death without mercy, if after that space of time, any of them were taken in those places.</hi>
+            </p>
+            <p>Hereupon, no sooner was the time limited overpast, but immediate<g ref="char:EOLhyphen"/>ly the Missionary <hi>Monks</hi> and <hi>Popish Priests</hi> sent in upon them a world of Cut-throats and Villains, who not only gape after the Prey like Hounds, and hunt for the precious Lives of those miserable Exiles, but also dis<g ref="char:EOLhyphen"/>charge
+<pb n="15" facs="tcp:99704:8"/> their rage and fury against their Houses and Lands, by cutting down and rooting up the very Trees.</p>
+            <p>In the mean time these poor <hi>Protestants</hi> knew not where to complain of their Injuries, being deprived of all possibility of making any address to the Prince; and if any did but offer to present Petitions in their behalfs, they were presently snapt, and sent away to the <hi>Congregation for Propaga<g ref="char:EOLhyphen"/>ting the Faith, and Extirpation of Hereticks;</hi> that is, to their Adversaries, the Archbishop of <hi>Turin,</hi> the Prince's Confessor, the Abbot <hi>de la Monta,</hi> the Prior of <hi>Rorene,</hi> and some others, who are Politick Pensioners to the Pope.</p>
+            <p>Now, as touching this Persecution against the <hi>Protestants,</hi> whereby they are made to depart within three dayes upon pain of Death, into such de<g ref="char:EOLhyphen"/>solate places as are hardly sufficient to receive or sustain the native In<g ref="char:EOLhyphen"/>habitants; the Iniquity and Injustice of the proceeding appears even in this, that the poor <hi>Protestants,</hi> through the influence of their Adversaries, and Accusers, upon the Magistrate, were without hearing, or the least sum<g ref="char:EOLhyphen"/>mons, sentenced to Banishment upon pain of Death, without giving them any Respit, or admitting them to make any Protestation or Appeal, unless their Petitions were drawn in such form as might please the <hi>Com<g ref="char:EOLhyphen"/>missioner,</hi> who is the great Protector of this <hi>Persecution;</hi> and according to the mind of their Adversaries, in such Tearms as they should prescribe, whereby they must necessarily betray Themselves and their Cause; and then after execution of the aforesaid penalty, they have been pleased to give some of the poor Exiles a hearing, and permitted them to plead their Cause, and that only by a <hi>Popish Advocate,</hi> who had been so charmed by the Clergy, that before he entred upon the Cause, he was faine to crave pardon upon his knees for undertaking to plead it.</p>
+            <p>And as for the pleading, it was not mannaged before competent and lawful Judges, but the <hi>Protestants</hi> chiefest Adversaries sate in Judgement; the Archbishop of <hi>Turin,</hi> the Dukes Confessor, the Abbot <hi>de la Monta,</hi> the Prior of <hi>Rorene,</hi> and some others, devoted to the Court of <hi>Rome,</hi> yea, and in the Archbishops own house.</p>
+            <p>Moreover, Whereas, according to certain Grants made by the Prince, leave was given to the <hi>Protestants</hi> to dwell in their wonted Habitations, where they had a Tolleration, and it remains on their part to be proved, that those were the accustomed places of their Habitation, the matter was so handled by the <hi>Romish Clergie,</hi> that they endeavoured as much as in them lay, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o hinder the <hi>Papists</hi> from giving any Testimony on the behalf of their Neighbours of the <hi>Protestant Religion,</hi> concerning this their Ha<g ref="char:EOLhyphen"/>bitation, which at length the <hi>Protestants</hi> made a hard shift to wrest out of them, to the exceeding regret and indignation of the Clergy, and so
+<pb n="16" facs="tcp:99704:9"/> proved at last by those Authentick Testimonials under the hands of their <hi>Popish Neighbours,</hi> that all those places out of which they were driven, have been places Inhabited by <hi>Protestants</hi> time out of mind.</p>
+            <p>But to the end that it may more fully and clearly appear, upon what ac<g ref="char:EOLhyphen"/>count of right or wrong the <hi>Popish Adversaries</hi> do incite their Soveraign, the Duke of <hi>Savoy,</hi> who is yet but young, to the driving of the poor <hi>Pro<g ref="char:EOLhyphen"/>testants</hi> out of their ancient Patrimonies and places of Abode, in the midst of a sharp and terrible Winter, and this upon pain of Death, unless with<g ref="char:EOLhyphen"/>in three dayes of Publication of that Decree of perpetual Banishment, they immediately quit their native Country, or else Abjure the true, and devote themselves and their families to the <hi>Romish Religion.</hi>
+            </p>
+            <p>It is to be observed (omitting the mention of their more ancient Rights and Priviledges, the long possession which they have held beyond the memory of man) That in the Edicts set forth by the Dukes of <hi>Savoy,</hi>
+               <note place="margin">They are to be seen in the History of the Martyrs, set forth in <hi>French,</hi> to the year <hi>1561.</hi>
+               </note> and the Agreements made for the Protestants enjoying a Liberty of Reli<g ref="char:EOLhyphen"/>gion, the Limits appointed for the publick preaching of the <hi>Reformed Religion,</hi> do not extend so far as the dwellings of those men that profess it, nor are the Limits of their Dwelling to be contracted into so narrow a compass, as the Places limited for Preaching. But that the <hi>Reformed Professors</hi> have a right of Habitation in those places out of which they are now expelled, is evident, not only by an ancient Pre<g ref="char:EOLhyphen"/>scription of many Ages, seeing their Fathers, Grandfathers, and other their Ancestors, have inhabited there before them, but also by those very Grants and Concessions confirmed by Duke <hi>Charles Emanuel,</hi> wherein it was acknowledged by publick Edict, that this Habitation was derived to them from their Fathers. For when he, through the Instigation of the Court of <hi>Rome,</hi> had by a surreptitious Decree commanded them to de<g ref="char:EOLhyphen"/>part thence towards the later end of the year 1602. afterward, being well informed of their Right, he by an authentick Charter, gave them leave to dwell there again; for the confirmation of which Charter, they paid 6000. Ducatoons into the Dukes Exchequer, upon <hi>August,</hi> 17. <hi>Anno,</hi> 1620. and it was confirmed again by the Prince now raigning, upon the 29<seg rend="sup">th</seg> of <hi>December, Anno</hi> 1655. And yet now, contrary to Faith given upon the 25<seg rend="sup">th</seg> of <hi>January</hi> following, in the depth of Winter, not sparing even Women with Child, near delivery, nor those that had Infants hang<g ref="char:EOLhyphen"/>ing on their Breasts, they were all without distinction, both Men, Wo<g ref="char:EOLhyphen"/>men, and Children, driven out to wander through Frost and Snow in a most bitter season, without the least warning or delay. And no sooner had these Old Inhabitants quitted their ancient Inheritances for the sa<g ref="char:EOLhyphen"/>ving of their Lives, but those savage Theeves that gaped after the prey,
+<pb n="17" facs="tcp:99704:9"/> presently fell to plundring and spoyling their Houses, driving away their Cattel, felling and cutting down Trees, or else rooting them up.</p>
+            <p>In a word, they destroyed all, and by this means attempted to drive them to the utmost point of Desperation; and if any man endeavoured to withstand or oppose them, they immediately cryed out, <hi>He is a Traytor.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>
+                           <hi>Andreas Gastaldus,</hi> Doctor in Law, Conservator and ordinary Auditor, sitting in the honourable Chamber of Accounts of his Royal Highness the Duke of <hi>Savoy,</hi> and general Conser<g ref="char:EOLhyphen"/>vator of the holy Faith, appointed to put in execution all Or<g ref="char:EOLhyphen"/>ders which are published against the pretended Reformed Religion, in the Valleys of <hi>Lucerna, Parouse,</hi> and <hi>Saint Mar<g ref="char:EOLhyphen"/>tin,</hi> and particularly appointed by his said Highness for this special business.</head>
+                        <p>ACcording to the Power given us by his Highness, by his Letters dispatch<g ref="char:EOLhyphen"/>ed to us in due forme, signed <hi>Violetta,</hi> and sealed, bearing date the thirteenth of this Moneth; and in performance of the Instructions given us, as also at the instance made to us by Mr. <hi>Bartholomew Gastaldus,</hi> intervening in the behalf of the Royal Exchequer; We Ordain and Command the first Sergeant or Bailiffe sworn to make Command and Injunction to all heads of Fa<g ref="char:EOLhyphen"/>milies, and to each particular of the pretended Reformed Religion, of what<g ref="char:EOLhyphen"/>soever estate, condition and degree, no Inhabitant excepted, possessing any goods in the Territories of <hi>Lucerne, Lucernette, St. John, La Tour, Bobiane, Fenill, Campiglion, Bricheras,</hi> and <hi>St. Second,</hi> within three dayes next after the Publication hereof, to relinquish and abandon with their Families the said places, and to transport themselves into those places and limits, which by the good pleasure of his Royal Highness are prescribed unto them, <hi>Viz. Bo<g ref="char:EOLhyphen"/>biane,</hi> the Valley of <hi>Angrogne, Rorata,</hi> and Country of <hi>Bonetta,</hi> under pain of Life, and Confiscation of their Houses, Possessions and Goods, which are extant without the said Limits, in case they cannot within twenty dayes make proof before us, that they are Catholicks, or that they have sold their Estates unto some Catholicks: His Royal Highness declaring, That it was never his design, nor of his Royal Predecessors, by any act done or to be done, nor his intention, much less his will, to enlarge their bounds; and that if any thing hath been done or published to the contrary, it was both against his own Orders, or those of his Magistrates, but a meer Usurpation against the disposi<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ion of those Acts, as it is manifest; and therefore the Transgressors have under<g ref="char:EOLhyphen"/>gone the Penalties mentioned in his Declaration. Besides, that his Highness doth intend, that in all those places, and each of them, where they are lovingly
+<pb n="18" facs="tcp:99704:10"/> tollerated, the Sacrifice of holy Masse shall be Celebrated; Prohibiting all Sub<g ref="char:EOLhyphen"/>jects of the <hi>pretended Reformed Religion,</hi> to give any molestation in Deeds or Words to the Fathers Missionaries, and those that officiate under them, much less to disturbe any of the <hi>pretended Reformed Religion</hi> from turning Ca<g ref="char:EOLhyphen"/>tholicks, under pain of Death: Charging and particularly commanding each particular Minister of the <hi>pretended Reformed Religion,</hi> to see the fore<g ref="char:EOLhyphen"/>mentioned Injunctions inviolably observed, as they will answer it at their ut<g ref="char:EOLhyphen"/>most perils; Declaring his Intention to be, that the Execution hereof be done by Posting, or Fixing Copies of these presents, which shall be at the like value, as if they had been made and intimated to each in particular.</p>
+                        <closer>
+                           <dateline>
+                              <hi>Given at</hi> Lucerne, <date>
+                                 <hi>the 25th of</hi> January, <hi>1655.</hi>
+                              </date>
+                           </dateline>
+                           <signed>
+                              <hi>Andrew Gastaldus,</hi> Commissioner.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="narrative">
+            <pb n="19" facs="tcp:99704:10"/>
+            <head>A <hi>NARRATIVE</hi> of the bloody Cruel<g ref="char:EOLhyphen"/>ties that were exercised against the <hi>Protestants</hi> of the Valleys of <hi>Piedmont,</hi> during the heat of the late <hi>Massacre,</hi> in <hi>April,</hi> Anno. <hi>1655.</hi>
+            </head>
+            <p>UPon Saturday, <hi>April</hi> 17. 1655. whilst the Deputies of the <hi>Pro<g ref="char:EOLhyphen"/>testants</hi> were, by the subtilties of the Marquess of <hi>Pianessa,</hi> detained at <hi>Turin,</hi> a great Army arrived at St. <hi>Giovanny,</hi> and fell in the dusk of the evening into <hi>La Torre;</hi> the next day they ranged about through the Communalties of <hi>La Torre,</hi> and St. <hi>Gio<g ref="char:EOLhyphen"/>vanny,</hi> plundering and pillaging all before them; and the day after, their number being encreased to about fifteen thousand, they set upon the <hi>Pro<g ref="char:EOLhyphen"/>testants</hi> in several Quarters.</p>
+            <p>
+               <hi>Wednesday</hi> the 21th. the Marquess of <hi>Pianessa</hi> held the Deputies of the <hi>Vally</hi> of <hi>Lucerna</hi> in parley til noon, &amp; then entertained them with a large Dinner, and sent them away with many fair promises, <hi>That there should be no hurt done to any, except those of St.</hi> Giovanny <hi>and</hi> La Torre, <hi>as be<g ref="char:EOLhyphen"/>ing the places specified in the Order of</hi> Gastaldo; <hi>but for the rest, if they would but quarter a few Troops as a token of their obedience, and that but for a short time, they might be fearless of the least inconvenience.</hi> Hereupon the Agents of <hi>Angrogna</hi> bestirred themselves to perswade their own par<g ref="char:EOLhyphen"/>ty from making the least resistance. The same did the Agents of <hi>Villa<g ref="char:EOLhyphen"/>ro</hi> and <hi>Bobio.</hi> But no sooner were those Troops entred, but they put all to Fire and Sword, slaying all they met with, and that in the most bar<g ref="char:EOLhyphen"/>barous manner they could possibly devise; as you may see by this Ex<g ref="char:EOLhyphen"/>tract of a Letter written by some of those poor <hi>Protestants,</hi> wherein they thus write.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>The Army having gotten footing, became very numerous, by the addition of a multitude of the Neighbouring Inhabitants, who hearing that we were
+<pb n="20" facs="tcp:99704:11"/> given for a prey to the plunderers, fell upon us with an impetuous fury. To these were added a great number of Out-laws, Prisoners, and other Offenders. We were forced also to receive five or six Regiments of the</hi> French <hi>Army, be<g ref="char:EOLhyphen"/>sides some</hi> Irish, (to whom, <hi>as it was said,</hi> our Countrey was promised) <hi>and several other Troops of Highway-men, and Vagabonds, under a pretence of coming into the</hi> Valleys <hi>onely for fresh Quarters.</hi>
+                  </p>
+                  <p>
+                     <hi>The multitude being Licensed by the Marquess of</hi> Pianessa, <hi>encouraged by the Monks, and led by our wicked Neighbours, fell upon us with such violence on every side, and in so treacherous a manner, especially in</hi> Angrog<g ref="char:EOLhyphen"/>nia, Villaro, <hi>and</hi> Bobio, (<hi>to whom</hi> Pianessa <hi>had plighted his troth,</hi> That if they would but Quarter one Regiment, they should be secure from all harm) <hi>that in a moment of time all was turned into a confused heap, and most inhumanely Massacred. In one place they cruelly tormented one hundred and fifty Women and Children, and afterwards chopped off the Heads of some, and dashed out the Brains of others against the Rocks. Multitudes of Prisoners they took, and such of them as refused to go to Mass, they hanged up some, and nailed the feet of others to Trees, with their heads downwards, all which they constantly endured.</hi>
+                  </p>
+                  <p>
+                     <hi>The pretence of these strange Massacres and Cruelties are,</hi> That we were Rebels to the Dukes commands, in not performing a pure impossibility by immediate departing from our Habitations.</p>
+                  <p>The truth is, the cruelties which were there executed, would exceed the belief of any man, were they not so fully proved by the formal At<g ref="char:EOLhyphen"/>testations of so many eye Witnesses, and the Oath of one of their chief Commanders that acted these cruelties.</p>
+               </body>
+            </floatingText>
+            <div type="testimony">
+               <head>The DECLARATION of <hi>Monseur Du Petit Bourgh,</hi> first Captain of the Regiment of <hi>Gransey,</hi> subscribed with his own Hand at <hi>Pignerel,</hi> No<g ref="char:EOLhyphen"/>vember 27. 1655. in the presence of two other Commanders.</head>
+               <p>
+                  <hi>I Sieur du Petit Bourgh,</hi> being commanded by Prince <hi>Thomas,</hi> to go and joyn my self with the Marquess of <hi>Pianessa,</hi> who was then at <hi>La Torre.</hi> Upon my departure, I was requested by the Em<g ref="char:EOLhyphen"/>bassador, to speak to the Marquess, and to use my endeavour to ac<g ref="char:EOLhyphen"/>commodate
+<pb n="21" facs="tcp:99704:11"/> the troubles which were amongst those of the Religion, in the Valleys of <hi>Piedmont;</hi> Which accordingly I did, entreating him with much earnestness, that he would give way thereunto; and I doubted not but I should be able to effect it. But he refused this my request, and that divers times, notwithstanding all the endeavours I could possibly use to perswade him thereto; and instead of the least mitigation, I was Witness to many great violences, and extream cruelties exercised by the Bandets and Souldiers of <hi>Piedmont</hi> upon all sorts, of every Age, Sex, and Condition, whom I saw Massa<g ref="char:EOLhyphen"/>cred, Dismembred, Hanged up, Burnt, and Ravished; together with many horrid confusions, which I beheld with horror and regret; and without any distinction of those that resisted, and such as resisted not, they were used with all sorts of inhumanity, their Houses burnt, their Goods plundred; and when Prisoners were brought be<g ref="char:EOLhyphen"/>fore the said Marquess, I saw him give order to give them no Quarter at all, saying, <hi>His Highness was resolved to have none of the Religion within his Dominions.</hi> And whereas in his Declaration he protests, <hi>That there was no hurt done to any but during the Fight, nor the least outrage committed upon any Persons that were not fit to bear Arms.</hi> I will maintain that it is not so, having seen with my eyes many Persons killed in cold blood; as also Women, Aged Persons, and young Children, miserably murthered, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Attestations of divers Persons of Honour and Integrity, who were for the most part Eye and Ear Witnesses of the ensuing barbarous Cruelties, which were exercised upon the <hi>Protestants,</hi> in the Valleys of <hi>Piedmont,</hi> in the late Massacre, <hi>1655.</hi>
+               </head>
+               <p>
+                  <hi>SArah Rastignole des Vignes,</hi> about sixty years old, was overtaken by Souldiers, and commanded to say her Prayers; then they bid her say, <hi>Jesus Maria,</hi> which she refused; whereupon one of the Souldiers thrust a Sickle into the lower part of her Belly, and ript her up to the Navel, and then dragged her upon the ground, being half-dead, till another came and cut off her head. Her Daughter in Law, who hid her self in the Snow for two days, was an eye witness of it.</p>
+               <pb n="22" facs="tcp:99704:12"/>
+               <p>
+                  <hi>Martha Constantine</hi> of <hi>Giovanni,</hi> after she had seen several others most cruelly put to death, was her self first Ravished, and afterwards had her Breasts cut off, and part of her Privities, by some of the Souldiers, who fryed them, and set them before their Comrades, making them believe they were Tripes, but when they had eaten a good part, they told them what they were, which caused a quarrel amongst them; they that had eaten were so sick, that some of them died soon after. This was certified by a <hi>Papist</hi> to one <hi>Andrea Javel</hi> of <hi>Einachia.</hi>
+               </p>
+               <p>A man of <hi>Thrassaniere,</hi> being taken Prisoner, received divers stabs in the Soles of his Feet, and in his Ears, by two Souldiers, who cut off his Privy Members, and applyed a burning Candle to the Wound, frying it with the flame thereof, that the blood might stop, and his torments be prolonged. Then tore they his Nails off with burning Pincers, to force him to renounce his Religion; but when nothing would do, they tyed one of his Legs to a <hi>Mule,</hi> and dragged him through the streets, and then bound a Cord about his Head, and twisted it with a staff till his Eyes and his Brains dropt out, and then cast him into the River.</p>
+               <p>
+                  <hi>Peter Simond</hi> of <hi>Angrogna,</hi> about eighty years old, was tyed Neck and Heels together, and so violently thrown down a fearful Precipice, but by the way, falling upon a cragged branch of a Tree, hung in a most languish<g ref="char:EOLhyphen"/>ing condition for divers dayes, till he died, the Precipice being inac<g ref="char:EOLhyphen"/>cessable.</p>
+               <p>
+                  <hi>Esay Garcino</hi> of <hi>Angrogna,</hi> of ninty years old, had his Body cut and hacked in small pieces, and then his head choped off.</p>
+               <p>The Wife of <hi>Daniel Armand</hi> of <hi>La Torre,</hi> had her Body torn and cut in pieces, and the parts of it strowed along the High wayes, and hung upon the Hedges.</p>
+               <p>Captain <hi>Pola</hi> took two Women of <hi>La Torre,</hi> and with his Fauchin ript up their Bellies, and left them grovling upon the Snow in this sad condition till they died.</p>
+               <p>The Souldiers of <hi>Bagnols,</hi> cut off the Nose, Fingers, and Hands of an old Woman, and left her languishing till she died.</p>
+               <p>They took many Infants, and little Children, and flung them down steep Rocks, and dashed them to pieces.</p>
+               <p>
+                  <hi>Magdalene Bertino</hi> of <hi>La Torre,</hi> they stripped naked, tyed her Head between her Legs, and threw her down one of the Precipices.</p>
+               <p>
+                  <hi>Mary Raymondet</hi> was found in a Cave, with her flesh sliced off from the Bones, and chopt as small as herbs to the Pot.</p>
+               <p>
+                  <hi>Magdalene Pilot,</hi> was cut in pieces in a Cave near <hi>Castellus.</hi>
+               </p>
+               <p>
+                  <hi>Anna,</hi> Daughter to <hi>Giovanny Charboniere</hi> of <hi>La Torre,</hi> had a long stake thrust into her Privities by some of the Souldiers, and stuck into the
+<pb n="23" facs="tcp:99704:12"/> ground, and so left hanging; a sad Spectacle to every one that passed by.</p>
+               <p>
+                  <hi>Giovanni Andrea Michialin</hi> of <hi>La Torre,</hi> being a Prisoner, miracu<g ref="char:EOLhyphen"/>lously escaped; three of his Children they tore in pieces limb from limb before him, and the fourth being about six weeks old, snatched it out of its Mothers Arms, and dashed its Brains out against the Rocks.</p>
+               <p>
+                  <hi>Jacob Perrin,</hi> and Elder of the Church of <hi>Villaro,</hi> and <hi>David</hi> his Bro<g ref="char:EOLhyphen"/>ther, being Prisoners, were carried to <hi>Lucerna,</hi> and cast into the Mar<g ref="char:EOLhyphen"/>quesses Prison, where the bloody Souldiers most cruelly stript off the skin from their Arms and Legs, in long slices like Leathern Points, till the flesh was left quite bare; after which they were miserably starved to death in the same Prison, and their Carkasses left to rot there.</p>
+               <p>
+                  <hi>Giovanni Pelanchion,</hi> a young man, being a Prisoner, they tied one of his legs to the tayl of a Mule, and so drag'd him through the streets of <hi>Lucerna,</hi> stoning him with Stones and Brickbats; after which these bloody Villains cut off his Privy Members, and crammed them down his throat, and at last chopt off his head, and so left him unburied.</p>
+               <p>
+                  <hi>Magdalen,</hi> the Daughter of <hi>Peter Fantana,</hi> a beautiful Girl, about ten years old, being taken by them, because her Body was uncapable of being forced, they tore her in so inhumane a manner, as that she was found half dead wallowing in her blood.</p>
+               <p>A poor Woman apprehending her danger, fled with her sucking Child, which some of these Hell-hounds perceiving, pursued, and overtook her, tore her Infant in pieces, ravished the Mother, then cut off her head, and left her dead Body upon the Snow.</p>
+               <p>At <hi>Villa Novo,</hi> the Daughter of <hi>Moses Long,</hi> about ten years old, was taken by these merciless Souldiers, who broached her upon a Pike, and roasted her alive, and after a while cut off her flesh to eat it, but finding it not well roasted, their stomachs would not serve them.</p>
+               <p>
+                  <hi>Jacopo Michilino,</hi> one of the chief Elders of the Church of <hi>Bobio,</hi> be<g ref="char:EOLhyphen"/>ing a Prisoner, they tied his hands to his privy Members, and so hung him upon a Gate, to force him to renounce his Religion, but could not prevail, for with incredible constancy he indured a world of cruelties, and tied behind at last exchanged this life for a better.</p>
+               <p>
+                  <hi>Peter Gros,</hi> during his Imprisonment, saw two <hi>Protestants</hi> of <hi>La Sarce<g ref="char:EOLhyphen"/>na,</hi> hanging in a most cruel manner by their privy members, their hands tied behind them, till their Bowels came out, and so died.</p>
+               <p>
+                  <hi>Giovanni Rostagnal</hi> of <hi>Bobio,</hi> had his Nose, Ears, and other parts of his Body cut off, and left languishing upon the Snow, till he gave up the Ghost.</p>
+               <p>
+                  <hi>Daniel Salvagio</hi> and his Wife, <hi>Giovanni Durant, Daniel Revell, Lodwick</hi>
+                  <pb n="24" facs="tcp:99704:13"/> and <hi>Bartholomew Durant,</hi> all Brothers, and <hi>Paol Reynaud,</hi> being taken by the Souldiers, had their mouths and throats stuffed with Gunpowder, and then setting fire to it, their heads were torn all to pieces.</p>
+               <p>
+                  <hi>Jacob Di Rono,</hi> a Schoolmaster of <hi>Roxas,</hi> being stript naked, had his nails torn off with Pincets, his hands stab'd with a Daggers point, drag'd through the Bourge of <hi>Lucerna,</hi> and as he went, had his flesh cut off with a Fauchin, crying, <hi>What sayest thou now</hi> Barbet, <hi>wilt thou go to Mass?</hi> To which, with admirable constancy, he answered, <hi>Much rather Death then Mass; dispatch me quickly for the love of God.</hi> Then came a noto<g ref="char:EOLhyphen"/>rious cut-throat, crying out, <hi>Lo here is the Minister of</hi> Rorans; and with<g ref="char:EOLhyphen"/>al gave him a deadly blow with a back-sword, then dragged him to the Bridg, cut off his head, and threw him into the River of <hi>Pelis.</hi>
+               </p>
+               <p>
+                  <hi>Paola Garnier</hi> of <hi>Roras,</hi> being taken by these murderers, they pluckt out his Eyes, cut off his privy Members, thrust his Yard into his mouth, and in this posture they exposed him to publick scorn for several dayes, and then, in a most inhumane manner flead him alive, cutting his skin in four parts, and hanging it in the Windows of four of the principal houses of <hi>Lucerna.</hi>
+               </p>
+               <p>
+                  <hi>Daniel Cardon</hi> being taken by the Souldiers, they cut off his head, took out his brains, fryed them in a Pan, and eat them up.</p>
+               <p>
+                  <hi>Margaret Revel,</hi> and <hi>Mary Di Pravillerm,</hi> were taken by them, and in a most barbarous manner burned alive.</p>
+               <p>
+                  <hi>Madona Lena,</hi> and <hi>Jeanna Batzan,</hi> both of <hi>La Torre,</hi> were used in the like cruel manner, and burned alive.</p>
+               <p>A Widdow of <hi>La Torre,</hi> who had lain sick for three years, was taken by them, with one of her Daughters; and drawn upon a Cart through <hi>La Torre;</hi> and as they passed, these Blood-hounds stab'd them with Pitch<g ref="char:EOLhyphen"/>forks, and threw them into the River of <hi>Angrogna.</hi>
+               </p>
+               <p>
+                  <hi>Paola Giles</hi> of <hi>La Torre,</hi> they shot in the Neck, after which they slit his Face, and when they had slain him, they left his Carkass to be eaten by Dogs.</p>
+               <p>Some of these murderers having taken eleven men, heated a great Furnace red hot, forced them to throw one another into it, and the last man they themselves threw in.</p>
+               <p>These Sons of Blood pursued, and hunted out multitudes of these poor <hi>Protestants</hi> amongst the Rocks and Mountains, by the traces of their bleeding Feet, which were cut with the Ice, and Flints in the way, and basely murdered them.</p>
+               <p>
+                  <hi>Michael Gonet</hi> of <hi>Lucerna,</hi> aged ninty years, was burnt alive by the Mountains of <hi>Bobio,</hi> where he fled for shelter.</p>
+               <pb n="25" facs="tcp:99704:13"/>
+               <p>
+                  <hi>Bartholomew Frasche</hi> of <hi>Fenel,</hi> was taken by the Souldiers, and after they slashed and mangled him, they thrust a poysoned knife through his Heels, and in this woful plight they threw him into Prison at <hi>Turin,</hi> where he lay in continual torment till he died.</p>
+               <p>
+                  <hi>Giovanni Baptista Oudri,</hi> an old man, was cruelly murdered at <hi>La Sarcena.</hi>
+               </p>
+               <p>
+                  <hi>Magdalen La Peire,</hi> was pursued by these Villains, and lest she might fall into their hands, threw her self down a dreadful Precipice, whereby she died.</p>
+               <p>
+                  <hi>Mary Davy</hi> was basely murdered by them.</p>
+               <p>
+                  <hi>Michael Bellino,</hi> with two others, were beheaded by them.</p>
+               <p>The Daughter of <hi>Peter Mallonat</hi> a Counsellor, with her Brother an In<g ref="char:EOLhyphen"/>fant, were rolled down a steep Hill, and two dayes after were found dead upon the Snow.</p>
+               <p>One <hi>Giovanni,</hi> with his Wife and Child, were hurled down a mighty Rock, and three dayes after were found dead.</p>
+               <p>
+                  <hi>Joseph Chiairet</hi> having received a Wound in the flight, was slayed alive, and his Grease taken out of his Body. The like was done to <hi>Pao<g ref="char:EOLhyphen"/>lo Carniero.</hi>
+               </p>
+               <p>
+                  <hi>Mattheo Turin</hi> was Massacred, and his Body devoured by Dogs.</p>
+               <p>
+                  <hi>Margaret Saretta</hi> was stoned to death, and cast into the River.</p>
+               <p>
+                  <hi>Cypriano Bastia</hi> was starved to death, and cast to Dogs.</p>
+               <p>
+                  <hi>Antonio Bertino,</hi> had his Nose, Paps, and Privities cut off, and his Head cleft in twain.</p>
+               <p>Two Children were murdered and burnt to ashes.</p>
+               <p>
+                  <hi>Joseph Pont</hi> was wounded, and then had his Body cut off in the mid<g ref="char:EOLhyphen"/>dle.</p>
+               <p>
+                  <hi>Daniel De Maria,</hi> had two of his Children murthered before his eyes, and then was barbarously slain.</p>
+               <p>
+                  <hi>Judith,</hi> a Widow of eighty years old, was dragged up and down, and at last had her head cut off.</p>
+               <p>Three Infants of <hi>Peter Fine</hi> were stifled in the Snow.</p>
+               <p>A maid that was an Innocent, was stripped naked, and then had a long Stake driven through her Belly.</p>
+               <p>
+                  <hi>Luce,</hi> the Wife of <hi>Peter Besson,</hi> being near the time of her lying down, as she fled for her life, was so afrighted with the shreeks of some that were Massacred, that she fell in Travel upon the Mountains, where she was found dead, with her new born Infant, and two other Children ly<g ref="char:EOLhyphen"/>ing by her.</p>
+               <p>
+                  <hi>Francis,</hi> the Son of <hi>Mr. Gros</hi> a Minister, had his Body cut into small
+<pb n="26" facs="tcp:99704:14"/> gobbets, whilst he was alive, and in the presence of his Wife; they took two of his Children, and most inhumanely murthered them.</p>
+               <p>The <hi>Sieur Thomas Margher</hi> being forced to fly, being an Elder of <hi>La Torre,</hi> was miserably starved to death with hunger and cold.</p>
+               <p>
+                  <hi>Judith Ravelin,</hi> with seven Children, were all barbarously murthered in their Beds.</p>
+               <p>
+                  <hi>Anna,</hi> a Widow of about seventy five years old, was cut in pieces by the Souldiers.</p>
+               <p>The Wife of <hi>Gasper Fayol,</hi> being taken, was forced to labour hard for them, by cutting down the Corn; and as she was at work, they came be<g ref="char:EOLhyphen"/>hind her and cut off her head.</p>
+               <p>Two Children, both of them Dumb, were murthered.</p>
+               <p>
+                  <hi>Jacob Rosseno</hi> refusing to say <hi>Jesus Maria,</hi> was cruelly beaten with Clubs, and having received several shots in his Body, they at last clove his Head asunder.</p>
+               <p>
+                  <hi>Susanna,</hi> the Daughter of <hi>Puola Giacquin,</hi> resisting a Souldier that would have ravished her, and by chance pushing him down a Rock, was hewed in pieces by others of them.</p>
+               <p>
+                  <hi>Giovanni Pullius,</hi> a poor Peasant of <hi>La Torre,</hi> being taken by the Soul<g ref="char:EOLhyphen"/>diers, after all manner of reproaches and scorns cast upon him by the Fry<g ref="char:EOLhyphen"/>ers and others, was by the command of the Marquess of <hi>Pionessa,</hi> dragged by the Hangman to a place near the Convent, where the Marquess com<g ref="char:EOLhyphen"/>manded the Hangman to place the Ladder against a Tree, and to prepare for his Execution; at which time the Monks and Priests ceased not to use all the Arguments they could invent, to shake the Faith and Con<g ref="char:EOLhyphen"/>stancy of this poor Creature, yet could they not prevail; by all his ex<g ref="char:EOLhyphen"/>pressions he declared <hi>the inward joy of his Soul, that he was counted worthy to suffer for the Name of Christ;</hi> and though they oft pressed him to re<g ref="char:EOLhyphen"/>member his Children, he answered, <hi>That it was his Prayer to God, that his Children might follow their Fathers steps, and die like him.</hi> Whereupon the Priests seeing all their labour lost, assisted the Hangman to end his life, and turned him off the Ladder.</p>
+               <p>
+                  <hi>Sieur Paola Clement,</hi> an Elder of the Church of <hi>Rossana,</hi> was brought by the Monks and Priests to the dead Body of the other, thinking thereby to scare him from his Principles and Profession; but he answered them with undaunted courage, <hi>That they might kill the Body, but could never be able to prejudice the Soul of a true Believer.</hi> He told them also, <hi>That God would assuredly avenge the Innocent blood that they had spilt.</hi> And having by some Ejaculations, prepared to resign up his Soul unto God, he desired the Hangman to do his work. Three or four dayes after the Marquess of
+<pb n="27" facs="tcp:99704:14"/>
+                  <hi>Pionessa</hi> coming that way, one of the Souldiers discharged a Musquet at his dead Body, whereupon there gushed out a stream of fresh blood, which the Marquess observing, said to some about him, <hi>This blood cries for ven<g ref="char:EOLhyphen"/>geance.</hi> Afterwards they took both these dead bodies and hung them up naked by one foot, near to <hi>La Torre,</hi> and when any Prisoner of the <hi>Pro<g ref="char:EOLhyphen"/>testants</hi> passed that way, they forced him or her to kiss their Privities, that they might put - like scorn both upon the living and the dead; but by reason of the multitude of Bullets that were shot through them by the Souldiers, they at last fell to pieces.</p>
+               <p>
+                  <hi>Daniel Rambaut</hi> of <hi>Villaro,</hi> having a numerous Family, was taken and carried to <hi>Paysana,</hi> with divers others of his Neighbours, where he was cast into Prison, and importunately set upon by the Monks and Mass-Priests, both with promises and threats to pronounce <hi>Jesus Maria,</hi> and when they could not prevail, the Tormentors cut off his Fingers one by one, then his hands, and lastly, gave him a deadly wound in the Stomach, dragged his Carcase to the River side, and left it to be devoured by Dogs and wild Beasts.</p>
+               <p>
+                  <hi>Peter Chabriolo</hi> being taken by the Souldiers, they hung a great quan<g ref="char:EOLhyphen"/>tity of Gunpowder about his body, and then giving fire to it, tore him all to pieces.</p>
+               <p>
+                  <hi>Antony,</hi> the Son of <hi>Samuel Calieris,</hi> a dumb and innocent Creature, was inhumanely butchered as he sat by the fire.</p>
+               <p>
+                  <hi>Peter Moninat</hi> and his Wife, lying both of them extream sick, were murthered by the Souldiers, who finding one of their Children lame and impotent, they cut off his Legs, and so left it in that miserable plight.</p>
+               <p>Another Girl that was dumb from her Cradle, was found starved to death for want of sustenance.</p>
+               <p>
+                  <hi>Daniel Benech</hi> of <hi>Villaro,</hi> was taken by the Souldiers, who cut off his Nose, Ears, and other parts of his Body, till they had slain him, and left the mangled pieces upon the Hedges and Bushes in the same place.</p>
+               <p>Two of his Children were also stifled in the Snow.</p>
+               <p>
+                  <hi>Mary,</hi> the Widow of <hi>Daniel Pelanchion</hi> of <hi>Villaro,</hi> being taken by the Souldiers, after they had basely abused her, they shot her, and threw her into the River; but this poor Woman being not quite dead, with much pains, and hard shifts, got out of the River again, hoping to be somewhat revived by the warm Sun, which she laid her down in; but some of these bloody Villains spying her, they fastned a Rope to her Feet, and dragged her to the Bridge, where they hung her up by the Legs, and so shot her to death, and left her naked upon the Rock.</p>
+               <pb n="28" facs="tcp:99704:15"/>
+               <p>
+                  <hi>Mary,</hi> the Wife of <hi>Daniel Monino,</hi> was taken by the Souldiers, who having broken her Jaws in pieces, they gave her a deep cut in the Neck, so that her head was half off, and left her in that languishing condition, till she yeelded up the Ghost.</p>
+               <p>
+                  <hi>Mary,</hi> the Widow of <hi>David Nigrino,</hi> with her Daughter, were both in<g ref="char:EOLhyphen"/>humanely massacred in the Village of <hi>Bozza,</hi> and their dead Bodies thrown into the Woods.</p>
+               <p>
+                  <hi>Susanna,</hi> the Widow of <hi>Samuel Bals</hi> of <hi>Villaro,</hi> was by the Souldiers basely abused at their pleasure, and afterwards shut her up between two stone Walls, where she was miserably pined to death.</p>
+               <p>
+                  <hi>Susanna,</hi> the Wife of <hi>Jacob Calvio,</hi> being sorely wounded by the Soul<g ref="char:EOLhyphen"/>diers, after which flying to a Barn, the Souldiers perceiving it, set fire on the Barn, and burnt her to ashes.</p>
+               <p>A Child of <hi>Daniel Bertino,</hi> was burnt in a Barn at <hi>Balmedaut.</hi>
+               </p>
+               <p>
+                  <hi>Paolo Armand</hi> being sick, was barbarously hacked in pieces.</p>
+               <p>
+                  <hi>Andrea Bertino,</hi> a lame and old man, had his Breasts cut off, and was cru<g ref="char:EOLhyphen"/>elly murthered by those bloody <hi>Villains,</hi> who to testifie their malice against him, for his constancy in Religion, after he was dead, they cut out his Bow<g ref="char:EOLhyphen"/>els, and with their Halberts hacked his Body in pieces.</p>
+               <p>
+                  <hi>Daniel,</hi> the Son of <hi>David Machialino,</hi> being taken by the Souldiers, after much cruel usage, had his Tongue pulled out with great violence and torments.</p>
+               <p>
+                  <hi>Constantia Bellione</hi> had her Body hacked and mangled, and then shot to death with several Bullets in her Bowels, &amp; cleft her head with a Hanger.</p>
+               <p>
+                  <hi>Judith Mondon</hi> was beaten to death in a savage manner with Clubs and Staves.</p>
+               <p>
+                  <hi>David Paglias</hi> and <hi>Paolo Genre</hi> endeavouring to fly, each of them hav<g ref="char:EOLhyphen"/>ing a little Infant in his Arms, being tyred, were overtaken by the Soul<g ref="char:EOLhyphen"/>diers▪ both Men and Infants were inhumanely murthered.</p>
+               <p>
+                  <hi>Micheli Genre,</hi> a young man of <hi>Bobio,</hi> was thrown off the Bridge of <hi>La Torre,</hi> where, as he was praying, he was partly stoned and partly drown<g ref="char:EOLhyphen"/>ed.</p>
+               <p>
+                  <hi>David Armond</hi> was beaten about the Head with an Hammer till he died.</p>
+               <p>
+                  <hi>Jacob Baridono</hi> being taken Prisoner at <hi>Villaro,</hi> and from thence carri<g ref="char:EOLhyphen"/>ed to <hi>La Torre,</hi> where he was tormented with burning Matches between his Fingers, his Lips, and other parts of his Body, till he died, and was eaten of Dogs.</p>
+               <p>
+                  <hi>Margaret,</hi> the Wife of <hi>Joseph Garniero,</hi> having received a shot in one of her Breasts, as she was giving suck to her Child with the other, was
+<pb n="29" facs="tcp:99704:15"/> yet so couragious, that with many Pathetical Expressions, she exhorted her Husband to endure the Cross with Patience, and to hold out to the End. Neither did she desire any favour of the Murtherers, but only that they would spare the Life of the innocent Babe, which accordingly they did; but withal gave the Mother onother shot in her Body, whereof she died, and afterwards the Infant being found alive in the dead Mothers Armes, was miraculously preserved.</p>
+               <p>
+                  <hi>Isaiah Mondon,</hi> having hid himself in a Cleft of a Rock, where for many dayes he had nothing but a few leaves to eat; was at last found by the Souldiers, and unmercifully handled by them, and drawn towards the Town of <hi>Lucerna,</hi> being almost dead, fell down upon his knees, and besought them to dispatch him, which accordingly they did; partly with Swords, partly with Pistols; crying out in a scoffing manner, <hi>Kill the Barbet, kill the Barbet, who refuseth to become a Christian.</hi>
+               </p>
+               <p>
+                  <hi>Giovanni Barrolino,</hi> and his Wife were cast alive into a Poole, and thrust under the water with Staves and Pitch-forks, and dispatched with Stones and Brickbats.</p>
+               <p>
+                  <hi>Mary Revel</hi> receiving a shot in her Body, fell upon her knees, and as she was praying, the bloody Enemy dispatched her.</p>
+               <p>
+                  <hi>Giovanni Salvagiot,</hi> as he was returning from <hi>Bagnol,</hi> after the Peace was concluded, as he was passing by a Chappel, because he did not put off his Hatt, and make obeysance to it, was murthered, and his Body left unburied.</p>
+               <p>
+                  <hi>Giovanni Gayo,</hi> and divers other Men, Women, and Children, hid themselves in a Cave, till they were discovered by some of those blood-hounds; whereupon they fell upon their knees, and begged their Lives of them, most of the Murtherers having been their Neighbours and fami<g ref="char:EOLhyphen"/>liar Acquaintance, and such as had pretended great friendship to them: but the mercy of these men proved extream cruelty: for the kindest sa<g ref="char:EOLhyphen"/>lute they could afford them, was with Swords, Musquets, and Pistols, which the poor People perceiving, and not desiring to behold the lamen<g ref="char:EOLhyphen"/>table misery each of other, they kneeled down in a Ring, and thrust their heads into <hi>Fern,</hi> and such like stuff as they had prepared to lye upon, in which posture they were all miserably shot to death, and their dead bodies horribly mangled and cut in pieces.</p>
+               <p>
+                  <hi>Jacob Barral</hi> and his Wife being taken Prisoners by the Earl of <hi>St. Secondo,</hi> they cut off the Womans Breast, and then shot them to death.</p>
+               <p>
+                  <hi>Antony Guiguo</hi> went to <hi>Periero</hi> with a purpose to change his Religion; but it pleased God so to touch his heart, that he repented of the Reso<g ref="char:EOLhyphen"/>lution,
+<pb n="30" facs="tcp:99704:16"/> and sought to make an Escape: but as he was flying, some Troopes of the Marquess of <hi>Galeas</hi> caught him, and used him most cruelly, because he would not go to Mass: and as they carried him Prisoner towards <hi>Parly,</hi> passing by a Precipice, the poor man to avoid his Tormentors, leap'd down from the Rock, and so was dashed in pieces.</p>
+               <p>Very many others there were which might have been insert<g ref="char:EOLhyphen"/>ed, whereof some were Drowned, some Burnt, some slain with the Sword, some Shot to death, some Starved, some smo<g ref="char:EOLhyphen"/>thred in the Snow, some Pined to death, some killed with Staves, some Cut in Pieces; and all this and much more by their Po<g ref="char:EOLhyphen"/>pish Adversaries; as may be seen in Mr. <hi>Moorelands</hi> History, of the <hi>Persecutions in the Valleys of Piedmont.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
